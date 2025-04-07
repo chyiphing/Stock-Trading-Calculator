@@ -1,0 +1,18 @@
+# Node.js / React
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Python / Flask
+backend/__pycache__/
+backend/instance/
+backend/.env
+*.pyc
+
+# VSCode / Mac / OS stuff
+.vscode/
+.DS_Store
+
+# General
+.env
+*.log
